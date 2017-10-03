@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research - Week 2 Project"
-output: html_document
+output: html_document:
   keep_md: true
 ---
 ##Loading and preprocessing the data
