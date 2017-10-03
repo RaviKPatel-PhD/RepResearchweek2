@@ -2,7 +2,8 @@
 title: "Reproducible Research - Week 2 Project"
 output: 
   html_document:
-    keep_md: true
+    fig_caption: yes
+    keep_md: yes
 ---
 ## Loading and preprocessing the data
 ```{r setup, include=FALSE}
