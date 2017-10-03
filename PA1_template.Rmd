@@ -1,6 +1,7 @@
 ---
 title: "Reproducible Research - Week 2 Project"
 output: html_document
+  keepmd:TRUE
 ---
 ##Loading and preprocessing the data
 ```{r setup, include=FALSE}
